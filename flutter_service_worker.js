@@ -3,16 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "56b090f3d095b3d9155e8e41640e5080",
+  "assets/AssetManifest.json": "21ebcb407a2c2069a1ee1d66559c7afa",
 "assets/assets/crown.json": "09c58f6665b29ba3bff3a3b984911e44",
 "assets/assets/crown2.json": "cd121f086d0875651a4824e979aa0ad5",
 "assets/assets/loader1_yellow.json": "86ef7e082756338fade2bf91875b0022",
 "assets/assets/loader2_blue.json": "93cc8a057a539413f28b64337958aff1",
 "assets/assets/star.json": "546fa5609abfb55c949fff921690dbfd",
 "assets/FontManifest.json": "9e0649c90f16a7be3d51ab27d6089604",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "f224b34dafde8831c9fac77eb7258504",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/NOTICES": "25d100c059cb9efac21d10d0e86919b5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
+"assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/flutter_neumorphic/fonts/NeumorphicIcons.ttf": "32be0c4c86773ba5c9f7791e69964585",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -21,9 +23,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "01c2c8a9980c13dcaef67e613245347d",
-"/": "01c2c8a9980c13dcaef67e613245347d",
-"main.dart.js": "d58cd48a8d059919e6f6b000b0df7da7",
+"index.html": "1ef542458b655a5038ece86bfeb52ea3",
+"/": "1ef542458b655a5038ece86bfeb52ea3",
+"main.dart.js": "c4dc97dfb6add7f59e2937ef92b85e00",
 "manifest.json": "ca20551e1123010268d2b9723114420f",
 "version.json": "dfc04cb04c53fac6ca38eeb8d216af9b"
 };
